@@ -1,5 +1,5 @@
-jdk20)
-    name="Java SE Development Kit 20"
+jdk21)
+    name="Java SE Development Kit 21"
     type="pkgInDmg"
     versionKey="CFBundleShortVersionString"
     if [[ $(arch) == "arm64" ]]; then
